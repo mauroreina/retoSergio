@@ -1,0 +1,18 @@
+/* Styles go here */
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 880px;
+  }
+}
+
+body {
+  padding: 50px;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 2px;  
+  height: 22px;
+}
